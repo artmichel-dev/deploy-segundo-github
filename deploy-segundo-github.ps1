@@ -2,7 +2,7 @@
 # === CONFIGURACIÓN ===
 $GIT_NAME = "TU-USERNAME"
 $GIT_EMAIL = "TU-CORREO"
-$REMOTE = "git"
+$REMOTE = "deploy"
 $BRANCH = "main"
 
 Write-Host "Iniciando deploy con tu UserName..." -ForegroundColor Cyan
